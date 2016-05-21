@@ -1,14 +1,7 @@
---------------------------------------------------
---      ____  ____ _____                        --
---     |    \|  _ )_   _|___ ____   __  __      --
---     | |_  )  _ \ | |/ ·__|  _ \_|  \/  |     --
---     |____/|____/ |_|\____/\_____|_/\/\_|     --
---                                              --
---------------------------------------------------
---                                              --
---       Developers: @Josepdal & @MaSkAoS       --
---     Support: @Skneos,  @iicc1 & @serx666     --
---              @h3iran :D                      --
+
+--       Developers: @Josepdal & @alfroshotak    --
+--     Support: @octapus_id_dead,  @iicc1 & @makan     --
+--              @fucker_team :D                      --
 --------------------------------------------------
 local function is_channel_disabled( receiver )
 	if not _config.disabled_channels then
